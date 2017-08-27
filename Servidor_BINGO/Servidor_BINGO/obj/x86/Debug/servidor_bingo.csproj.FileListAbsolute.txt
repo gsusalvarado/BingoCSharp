@@ -1,0 +1,20 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\servidor_bingo\bin\Debug\servidor_bingo.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\servidor_bingo\bin\Debug\servidor_bingo.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\servidor_bingo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\AppData\Local\Temporary Projects\servidor_bingo\obj\x86\Debug\servidor_bingo.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\servidor_bingo\obj\x86\Debug\servidor_bingo.pdb
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\servidor\servidor_bingo\servidor_bingo\obj\x86\Debug\servidor_bingo.exe
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\servidor\servidor_bingo\servidor_bingo\obj\x86\Debug\servidor_bingo.pdb
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\servidor\servidor_bingo\servidor_bingo\bin\Debug\servidor_bingo.exe
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\servidor\servidor_bingo\servidor_bingo\bin\Debug\servidor_bingo.pdb
+C:\Users\usuario\Desktop\bingo\Nueva carpeta\servidor\servidor_bingo\servidor_bingo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\bingo\bingo\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.exe
+C:\Users\usuario\Desktop\bingo\bingo\Servidor_BINGO\servidor_bingo\obj\x86\Debug\servidor_bingo.pdb
+C:\Users\usuario\Desktop\bingo\bingo\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.exe
+C:\Users\usuario\Desktop\bingo\bingo\Servidor_BINGO\servidor_bingo\bin\Debug\servidor_bingo.pdb
+C:\Users\usuario\Desktop\bingo\bingo\Servidor_BINGO\servidor_bingo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\Servidor_BINGO\Servidor_BINGO\obj\x86\Debug\servidor_bingo.exe
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\Servidor_BINGO\Servidor_BINGO\obj\x86\Debug\servidor_bingo.pdb
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\Servidor_BINGO\Servidor_BINGO\bin\Debug\servidor_bingo.exe
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\Servidor_BINGO\Servidor_BINGO\bin\Debug\servidor_bingo.pdb
+C:\Users\8570w\Downloads\bingo chuselprogramador\bingo\Servidor_BINGO\Servidor_BINGO\obj\x86\Debug\servidor_bingo.csprojResolveAssemblyReference.cache
